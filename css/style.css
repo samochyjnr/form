@@ -1,0 +1,48 @@
+ .sec1{
+background-color: #787474;
+height: 550px;
+
+}
+
+.sec2{
+background-color: #C5FDFE ;
+height: 650px;
+
+}
+
+
+section{
+  height: 100px;
+  background-color: #787474;
+
+}
+
+.ct1{
+  text-align: center;
+  font-weight: bold;
+}
+
+.but1{
+  text-align: center;
+}
+
+.num1{
+  width: 500px;
+}
+.num2{
+  width: 250px;
+}
+
+.h1i{
+  text-align: center;
+}
+
+.green1{
+  margin-left: 500px;
+}
+
+.tb1{
+width: 300px;
+align-items: center;
+margin-left: 450px;
+}
